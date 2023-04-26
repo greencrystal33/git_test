@@ -1,1 +1,3 @@
 bbbb
+
+跳过暂存 git commit -a -m "直接提交"
