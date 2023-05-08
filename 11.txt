@@ -7,6 +7,8 @@ git init
 git config --list
 git status
 
+暂存
+git add .
 跳过暂存 git commit -a -m "直接提交"
 
 git branch  查看
