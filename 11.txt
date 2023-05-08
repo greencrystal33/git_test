@@ -20,6 +20,9 @@ git checkout -b  new 新建并切换
 切换到master，合并分支login到master上
 git merge login
 
+删除分支
+git branch -d 分支名
+
 上传分支
 git push -u 远程仓库别名 本地分支名称[:远程分支名称]
 
