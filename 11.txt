@@ -28,3 +28,9 @@ git remote show origin
 
 跟踪分支
 git checkout 远程分支名
+
+获取远程更新
+git pull
+
+删除远程分支
+git push 远程仓库名 --delete 远程分支名
