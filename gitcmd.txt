@@ -25,6 +25,9 @@ git push -u 远程仓库别名 本地分支名称[:远程分支名称]
 查看远程
 git remote show origin
 
+克隆远程
+git clone (link)
+
 跟踪分支
 git checkout 远程分支名
 
