@@ -1,3 +1,6 @@
+ssh key
+ssh-keygen -t rsa -b 4096 -C"greencrystal33@hotmail.com"
+
 初始化目录
 git init
 git config --list
