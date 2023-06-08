@@ -3,7 +3,11 @@ ssh-keygen -t rsa -b 4096 -C"greencrystal33@hotmail.com"
 
 初始化目录
 git init
-git config --list
+git config --list(按q退出)
+查看修改用户名和email
+git config user.name /user.email
+git config --global  user.name "用户名"
+
 git status
 
 暂存
